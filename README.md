@@ -21,5 +21,5 @@ I am an undergraduate engineering student specializing in Artificial Intelligenc
 ---
 
 ## 📈 Connect With Me
-- **LinkedIn:** [(https://www.linkedin.com/in/nikhil-salokhe-a61890395)]
-- **Email:** [nikhilsalokhe47@gmail.com]
+- **LinkedIn:** [Nikhil Salokhe](https://www.linkedin.com/in/nikhil-salokhe-a61890395)
+- **Email:** [nikhilsalokhe47@gmail.com](mailto:nikhilsalokhe47@gmail.com)
