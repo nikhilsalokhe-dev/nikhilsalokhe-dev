@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nikhil Salokhe! 👋
 
-<!--
-**nikhilsalokhe-dev/nikhilsalokhe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate engineering student specializing in Artificial Intelligence and Machine Learning at Walchand College of Engineering, Sangli. I enjoy building clean, logical backend applications, optimizing data structures, and contributing to open-source software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tooling
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, PHP, C, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux |
+
+---
+
+## 🚀 Current Focus
+- 🐍 Deepening core Python data structures, file handling, and native OOP design patterns.
+- 🌐 Transitioning procedural PHP foundations into modular, object-oriented Python frameworks.
+- 🌿 Actively participating as an open-source contributor and mentee.
+
+---
+
+## 📈 Connect With Me
+- **LinkedIn:** [Your LinkedIn Profile Link Here]
+- **Email:** [Your Email Address Here]
