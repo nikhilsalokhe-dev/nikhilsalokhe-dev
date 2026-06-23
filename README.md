@@ -8,8 +8,8 @@ I am an undergraduate engineering student specializing in Artificial Intelligenc
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, PHP, C, SQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, Linux |
+| **Languages** | Python, C++, C, PHP, SQL |
+| **Tools & Platforms** | Git, GitHub, VS Code|
 
 ---
 
